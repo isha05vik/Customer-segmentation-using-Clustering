@@ -1,1 +1,2 @@
 # Customer-segmentation-using-Clustering
+This Jupyter Notebook performs customer segmentation using clustering techniques, specifically the K-Means algorithm. It uses the Mall_Customers.csv dataset, which includes customer attributes like Age, Income, and Spending Score. The notebook utilizes Python libraries such as pandas, matplotlib, seaborn, and sklearn to visualize customer distribution and apply clustering for identifying distinct customer groups based on their purchasing behavior.
